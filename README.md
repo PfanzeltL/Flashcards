@@ -1,3 +1,4 @@
+HEAD
 # play-scala-starter-example
 
 This is a starter application that shows how Play works.  Please see the documentation at <https://www.playframework.com/documentation/latest/Home> for more details.
@@ -52,4 +53,6 @@ There are several demonstration files available in this template.
 
 - `ExampleFilter.scala`:
 
-  A simple filter that adds a header to every response.
+  A simple filter that adds a header to every response.=======
+# Flashcards
+4a9273bd7374dbe0520cddba0b5e43a0a30ad7d4
